@@ -8,5 +8,13 @@ here is a sample output of me losing on purpose (DONT U DARE CALL ME A NOOB >:(!
 
 <img width="314" height="658" alt="image" src="https://github.com/user-attachments/assets/47eabcf0-5de1-45c1-a932-9f14108cd6ae" />
 
+also i added like connect 4 using MCTS just had to make some changes to game state like new game new rules but the core idea is the same
+
+also I suck at connect 4 :_(
+
+<img width="1393" height="714" alt="Screenshot 2025-10-17 153607" src="https://github.com/user-attachments/assets/a402d9d3-759c-4cd0-a047-e4e58c9bf913" />
+
+
+
 Thank You
 
