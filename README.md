@@ -21,3 +21,5 @@ also I suck at connect 4 :_(
 
 Thank You
 
+ps: u can make the ai dumber by changing loops XD
+
