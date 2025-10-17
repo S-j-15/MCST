@@ -16,5 +16,8 @@ also I suck at connect 4 :_(
 
 
 
+# mcts.py is for tic-tac-toe and mcts_with_gui is tic-tac-toe with GUI
+# mcts_connect4 is for connect 4
+
 Thank You
 
